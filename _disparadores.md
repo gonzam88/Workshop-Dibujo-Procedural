@@ -1,0 +1,14 @@
+- limites imperfectos
+- individuo / usuario
+- espacio en discusión
+- personas y objetos
+- comunidades online
+- tiempo y alturas
+- balance profesional
+- zona de comodidad
+- técnico / artista
+- inventar una perspectiva
+- política digital
+- colonialismo digital
+- privacidad / compartir
+- azar / intención
