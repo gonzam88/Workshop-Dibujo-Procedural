@@ -10,7 +10,7 @@ body {
 /* theme class for slide pages */
 .remark-slide-content {
     background: hsl(0, 0%, 15%);
-    color: hsl(0, 5%, 75%);
+    color: hsl(0, 0%, 75%);
 }
 
 .h1 {
